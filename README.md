@@ -1,4 +1,4 @@
-#POODLE Attack: Investigating SSLv3 Vulnerabilities
+# POODLE Attack: Investigating SSLv3 Vulnerabilities
 
 The Secure Socket Layer (SSL) protocol was initially developed to secure data transmission but has undergone several updates due to vulnerabilities, such as the POODLE attack. SSL versions 1.0, 2.0, and 3.0 faced various issues, leading to the development of the more secure Transport Layer Security (TLS) protocol.
 
